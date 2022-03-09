@@ -1,3 +1,3 @@
 👋 Meu nome é Beatriz Soviero  
-📚 Estou no último ano do ensino médio  
-👩‍💻 Quero cursar Ciência da Computação, atualmente dividindo meus estudos entre Python e HTML, CSS  
+📚 Estudando Ciência de Dados em Python 
+👩‍💻 Iniciarei meu estudos de Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS)  
