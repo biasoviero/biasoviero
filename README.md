@@ -1,3 +1,3 @@
-👋 Meu nome é Beatriz Soviero  
-📚 Python  
-👩‍💻 Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS)  
+👋 Beatriz Soviero  
+📚 Python and C
+👩‍💻 Computer Science in Universidade Federal do Rio Grande do Sul (UFRGS)  
