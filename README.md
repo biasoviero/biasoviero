@@ -5,15 +5,10 @@
 
 ## About Me
 
-- 👩🏻‍💻 My name is Beatriz Soviero
+- 👩🏻‍💻 My name is Beatriz Soviero.
 - 🎓 Computer Science student at UFRGS.
+- 💻 Python | C
 - 📊 Interested in data science.
-
-## My Tech Stack
-
-- Python
-- C
-- SQL
 
 ## GitHub Stats
 
