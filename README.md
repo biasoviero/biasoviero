@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=biasoviero&color=blue)
 [![Followers](https://img.shields.io/github/followers/biasoviero?label=Followers&style=social)](https://github.com/biasoviero)
-[![GitHub](https://img.shields.io/github/followers/biasoviero?label=GitHub&style=social)](https://github.com/biasoviero)
 
 ## About Me
 
