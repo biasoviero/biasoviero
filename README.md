@@ -1,10 +1,5 @@
 # Hello! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=biasoviero&color=blue)
-[![Followers](https://img.shields.io/github/followers/biasoviero?label=Followers&style=social)](https://github.com/biasoviero)
-
-## About Me
-
 - 👩🏻‍💻 My name is Beatriz Soviero.
 - 🎓 Computer Science student at UFRGS.
 - 💻 Python | C
