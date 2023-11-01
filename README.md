@@ -1,6 +1,5 @@
-# Hello! 👋
+# Hello, I´m Beatriz! 👋
 
-- 👩🏻‍💻 My name is Beatriz Soviero.
 - 🎓 Computer Science student at UFRGS.
 - 💻 Python | C
 - 📊 Interested in data science.
