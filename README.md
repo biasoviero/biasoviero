@@ -7,7 +7,7 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biasoviero&show_icons=true&count_private=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=biasoviero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=biasoviero&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
 
 ## Languages
 
