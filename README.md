@@ -19,7 +19,7 @@
 
 Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Soviero-blue)](https://www.linkedin.com/in/beatrizsoviero/](https://www.linkedin.com/in/beatriz-forneck-soviero-570b5322b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Soviero-blue)](https://www.linkedin.com/in/beatriz-forneck-soviero-570b5322b/)
 [![Email](https://img.shields.io/badge/Email-biasoviero-red)](mailto:biasoviero@gmail.com)
 
 
