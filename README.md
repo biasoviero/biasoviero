@@ -1,7 +1,7 @@
 # Hello, I´m Beatriz! 👋
 
 - 🎓 Computer Science student at UFRGS.
-- 💻 Python | C
+- 💻 Python | C | Java
 - 📊 Interested in data science.
 
 ## GitHub Stats
