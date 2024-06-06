@@ -11,7 +11,7 @@
 
 ## Languages
 
-- English 🇺🇸: Advanced
+- English 🇺🇸: Proficient
 - Portuguese 🇵🇹: Native
 - Italian 🇮🇹: Learning
 
