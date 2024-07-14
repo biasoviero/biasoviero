@@ -11,9 +11,9 @@
 
 ## Languages
 
-- English 🇺🇸: Proficient
-- Portuguese 🇵🇹: Native
-- Italian 🇮🇹: Learning
+- English: Proficient
+- Portuguese: Native
+- Italian: Learning
 
 ## Let's Connect
 
